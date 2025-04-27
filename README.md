@@ -70,6 +70,11 @@ npm run build
 
 ---
 
+**Liked the tool? How about buying me a coffee?**  
+**Ethereum Wallet Address:** `0x01d51485251E256758D9F88bf34b212E7Bca1a2e`
+
+---
+
 ## License
 
 This project is released into the public domain under [The Unlicense](LICENSE).
